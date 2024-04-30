@@ -65,6 +65,8 @@ const toastConfig = {
   ),
  
 };
+///...
+
 
 export default function App() {
   const Stack = createNativeStackNavigator();
